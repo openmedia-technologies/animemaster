@@ -1,4 +1,4 @@
-rootProject.name = "kotlin-template"
+rootProject.name = "animemaster"
 
 pluginManagement.repositories {
     mavenLocal()
