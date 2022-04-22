@@ -1,0 +1,19 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:me.xtrm.openmedia.animemaster.service.anilist////PointingToDeclaration/animemaster/me.xtrm.openmedia.animemaster.service.anilist/index.html
+$dokka.location:me.xtrm.openmedia.animemaster.service.anilist/AnilistService///PointingToDeclaration/animemaster/me.xtrm.openmedia.animemaster.service.anilist/-anilist-service/index.html
+$dokka.location:me.xtrm.openmedia.animemaster.service.anilist/AnilistService/name/#/PointingToDeclaration/animemaster/me.xtrm.openmedia.animemaster.service.anilist/-anilist-service/name.html
+$dokka.location:me.xtrm.openmedia.animemaster.service.anilist/AnilistService/url/#/PointingToDeclaration/animemaster/me.xtrm.openmedia.animemaster.service.anilist/-anilist-service/url.html
+$dokka.location:me.xtrm.openmedia.animemaster.service.mal////PointingToDeclaration/animemaster/me.xtrm.openmedia.animemaster.service.mal/index.html
+$dokka.location:me.xtrm.openmedia.animemaster.service.mal/MALService///PointingToDeclaration/animemaster/me.xtrm.openmedia.animemaster.service.mal/-m-a-l-service/index.html
+$dokka.location:me.xtrm.openmedia.animemaster.service.mal/MALService/name/#/PointingToDeclaration/animemaster/me.xtrm.openmedia.animemaster.service.mal/-m-a-l-service/name.html
+$dokka.location:me.xtrm.openmedia.animemaster.service.mal/MALService/url/#/PointingToDeclaration/animemaster/me.xtrm.openmedia.animemaster.service.mal/-m-a-l-service/url.html
+$dokka.location:me.xtrm.openmedia.animemaster////PointingToDeclaration/animemaster/me.xtrm.openmedia.animemaster/index.html
+$dokka.location:me.xtrm.openmedia.animemaster/EnumService.ANILIST///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}animemaster/me.xtrm.openmedia.animemaster/-enum-service/-a-n-i-l-i-s-t/index.html
+$dokka.location:me.xtrm.openmedia.animemaster/EnumService.MAL///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}animemaster/me.xtrm.openmedia.animemaster/-enum-service/-m-a-l/index.html
+$dokka.location:me.xtrm.openmedia.animemaster/EnumService///PointingToDeclaration/animemaster/me.xtrm.openmedia.animemaster/-enum-service/index.html
+$dokka.location:me.xtrm.openmedia.animemaster/EnumService/service/#/PointingToDeclaration/animemaster/me.xtrm.openmedia.animemaster/-enum-service/service.html
+me.xtrm.openmedia.animemaster
+me.xtrm.openmedia.animemaster.service.anilist
+me.xtrm.openmedia.animemaster.service.mal
+
