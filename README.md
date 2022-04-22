@@ -1,6 +1,16 @@
 # animemaster [![Build][badge-github-ci]][project-gradle-ci] [![Maven Central][badge-mvnc]][project-mvnc]
 
-Anime Master is a Kotlin library to help you manage your anime management services.
+**Anime Master** is a Kotlin library to help you manage your anime management services.
+
+It provides API clients to connect and fetch data from multiple services, as well as an abstraction layer, allowing
+you to use multiple services at a time.
+
+**Supported Services**:
+
+|   Service   | Fetching | Login | Management | Recommendations |
+|:-----------:|:--------:|:-----:|:----------:|:---------------:|
+|   AniList   |    ❌     |   ❌   |     ❌      |        ❌        |
+| MyAnimeList |    ❌     |   ❌   |     ❌      |        ❌        |
 
 # importing
 
@@ -21,6 +31,7 @@ dependencies {
 ## maven
 
 ```xml
+
 <dependency>
     <groupId>me.xtrm.openmedia</groupId>
     <artifactId>animemaster</artifactId>
