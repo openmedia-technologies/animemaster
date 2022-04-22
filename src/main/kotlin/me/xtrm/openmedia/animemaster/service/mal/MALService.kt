@@ -9,7 +9,7 @@ import java.net.URL
  * @author xtrm
  * @since 0.1.0
  */
-object MALService: IService {
+object MALService : IService {
     override val name: String = "MyAnimeList"
     override val url: URL = URL("https://myanimelist.net/")
 }
